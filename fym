@@ -3,14 +3,14 @@
  “https://w3id.org/openbadges/v2”,
  “https://w3id.org/blockcerts/v2”
  ],
- “id”: “https://simbachain.github.io/pub-docs/issuer-testnet.json”,
- “url”: “https://training.simbachain.com/”,
- “name”: “SIMBAChain Inc.”,
- “email”: “training@simbachain.com”,
+ “id”: “https://github.com/stevelutz76/simbachain/blob/main/fym/issuer-testnet.json”,
+ “url”: “https://frontyardmission.com/courses/”,
+ “name”: “Front Yard Mission”,
+ “email”: “steve@twelverock.com”,
  “publicKey”: [
  {
- “id”: “ecdsa-koblitz-pubkey:0xa508dD875f10C33C52a8abb20E16fc68E981F186”,
- “created”: “2020-04-18T14:35:56.974985+00:00”
+ “id”: “ecdsa-koblitz-pubkey:0xfc9077aced8cedaf17796e2992067b9bf8dd0764”,
+ “created”: “2021-01-05T06:37:56.974985+00:00”
  }
  ],
  “revocationList”: “https://simbachain.github.io/pub-docs/revocation-list-testnet.json”,
