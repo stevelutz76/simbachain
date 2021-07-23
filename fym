@@ -6,7 +6,7 @@
  “id”: “https://github.com/stevelutz76/simbachain/blob/main/fym/issuer-testnet.json”,
  “url”: “https://frontyardmission.com/courses/”,
  “name”: “Front Yard Mission”,
- “email”: “steve@twelverock.com”,
+ “email”: “steve@frontyardmission.com”,
  “publicKey”: [
  {
  “id”: “ecdsa-koblitz-pubkey:0xfc9077aced8cedaf17796e2992067b9bf8dd0764”,
